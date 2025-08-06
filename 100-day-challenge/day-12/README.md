@@ -1,0 +1,1 @@
+2-phase Softmax: first calculating partial sums and then using the sums to normalize the input
